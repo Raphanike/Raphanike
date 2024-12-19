@@ -1,8 +1,6 @@
-# React + Vite
+👋 Me chamo Raphael, estou cursando desenvolvedor Fullstack Java no curso EBAC .
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
+👀 Tenho interesses pelas áreas de desenvolvimento front end, back end, e também na linguagem de programação Javasript entre outras aplicações .
 
 <div align="center">
   <a href="https://github.com/ogiansouza">
