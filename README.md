@@ -50,9 +50,8 @@ Aqui estão alguns dos projetos mais legais que já desenvolvi:
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [Raphael Souza](https://www.linkedin.com/in/raphanike)
-- **Twitter**: [@RaphanikeDev](https://twitter.com/raphanike)
-- **Email**: raphael.exemplo@email.com
+- **LinkedIn**: [Raphael Cavalcante](https://www.linkedin.com/in/developercavalcante/)
+- **Email**: raphael.maciel@outlook.com
 
 ---
 
