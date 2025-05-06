@@ -1,16 +1,76 @@
-👋 Me chamo Raphael, estou cursando desenvolvedor Fullstack Java no curso EBAC .
+# Olá, eu sou o Raphael 👋
 
-👀 Tenho interesses pelas áreas de desenvolvimento front end, back end, e também na linguagem de programação Javasript entre outras aplicações .
+Desde jovem, sempre fui apaixonado pelo mundo da tecnologia e dos games. Comecei trabalhando com computadores, consertando hardware, solucionando problemas de software e, aos poucos, mergulhando mais fundo nesse universo fascinante. Essa paixão natural pela tecnologia me levou a descobrir a programação, e foi aí que iniciei minha jornada na **EBAC – Escola Britânica de Artes Criativas e Tecnologia**. Foi lá que me apaixonei de verdade pelo desenvolvimento de software e encontrei meu verdadeiro propósito.
 
-<div align="center">
-  <a href="https://github.com/ogiansouza">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Raphanike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Raphanike&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-<div style="display: inline_block"><br>
-  <img align="center" alt=-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ts" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
-  <img align="center" alt="React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
+Atualmente, sou **Desenvolvedor Full Stack Java**, com formação completa pela EBAC, e tenho uma base sólida em **desenvolvimento web**. Minha experiência abrange **front-end**, **back-end**, **containers**, **banco de dados** e **controle de versão**. Estou sempre em busca de desafios que me permitam crescer técnica e profissionalmente.
+
+---
+
+## 🔧 Habilidades Técnicas
+
+### Front-end:
+- **HTML5**, **CSS3**, **JavaScript**, **TypeScript**
+- **React**, **Redux**, **React Router**, **Styled Components**
+- **Bootstrap**, **SASS**, **LESS**, **jQuery**
+- Ferramentas de automação: **Gulp**, **Grunt**, **Parcel**
+
+### Back-end:
+- **Java**, **Spring Boot**, **Spring Data JPA**, **Hibernate**
+- **Node.js**
+- **APIs RESTful**, **Swagger**, **Spring Security**
+- Banco de dados: **PostgreSQL**, **MySQL**, **MongoDB**
+
+### Ferramentas & Outros:
+- **Docker** para conteinerização de aplicações
+- **Git**, **GitHub** para controle de versão e colaboração
+- Ferramentas de qualidade de código: **ESLint**, **Prettier**
+- Testes: **JUnit** (testes de unidade)
+
+---
+
+## 🚀 Meus Projetos
+
+Aqui estão alguns dos projetos mais legais que já desenvolvi:
+
+- **[efood](link para o repositório)** - Um aplicativo inspirado no iFood, criado utilizando React no front-end e Node.js no back-end.
+- **[Calculadora de Composição Corporal](link para o repositório)** - Uma aplicação responsiva feita com React, para calcular dados como IMC, porcentagem de gordura e outros índices de composição corporal.
+
+🔗 Confira o repositório completo dos meus projetos no [meu GitHub](https://github.com/Raphanike).
+
+---
+
+## 📚 Formação
+
+**EBAC - Escola Britânica de Artes Criativas e Tecnologia**  
+- **Curso**: Desenvolvimento Full Stack Java  
+- **Duração**: [Ano de início] - [Ano de conclusão]  
+- **Principais tópicos abordados**: Desenvolvimento Web, Java, Spring Boot, Banco de Dados, Testes de Software, Docker, Metodologias Ágeis.
+
+---
+
+## 📫 Como me encontrar
+
+- **LinkedIn**: [Raphael Souza](https://www.linkedin.com/in/raphanike)
+- **Twitter**: [@RaphanikeDev](https://twitter.com/raphanike)
+- **Email**: raphael.exemplo@email.com
+
+---
+
+## 💻 Contribuições no GitHub
+
+![Raphael's GitHub stats](https://github-readme-stats.vercel.app/api?username=Raphanike&show_icons=true&theme=dracula&include_all_commits=true&count_private=true)
+
+### 📊 Contribuições
+![Raphael's GitHub contributions](https://github-readme-streak-stats.herokuapp.com/?user=Raphanike&theme=dracula)
+
+---
+
+## 🌱 O que estou aprendendo atualmente
+
+Estou constantemente buscando melhorar minhas habilidades e aprender novas tecnologias. Atualmente, estou me aprofundando em:
+
+- **Docker** e **DevOps**
+- **Padrões de Design** e **Arquiteturas de Software**
+- **Clean Code** e **SOLID**
+
+Cada linha de código é uma oportunidade para aprender algo novo e inovar. Estou sempre pronto para novos desafios!
