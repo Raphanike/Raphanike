@@ -51,7 +51,7 @@ Aqui estão alguns dos projetos mais legais que já desenvolvi:
 ## 📫 Como me encontrar
 
 - **LinkedIn**: [Raphael Cavalcante](https://www.linkedin.com/in/developercavalcante/)
-- **Email**: raphael.maciel@outlook.com
+- **Email**: raphinha.maciel@outlook.com
 
 ---
 
