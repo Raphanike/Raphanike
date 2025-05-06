@@ -28,15 +28,6 @@ Atualmente, sou **Desenvolvedor Full Stack Java**, com formação completa pela 
 
 ---
 
-## 🚀 Meus Projetos
-
-Aqui estão alguns dos projetos mais legais que já desenvolvi:
-
-- **[efood](link para o repositório)** - Um aplicativo inspirado no iFood, criado utilizando React no front-end e Node.js no back-end.
-- **[Calculadora de Composição Corporal](link para o repositório)** - Uma aplicação responsiva feita com React, para calcular dados como IMC, porcentagem de gordura e outros índices de composição corporal.
-
-🔗 Confira o repositório completo dos meus projetos no [meu GitHub](https://github.com/Raphanike).
-
 ---
 
 ## 📚 Formação
