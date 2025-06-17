@@ -2,8 +2,9 @@
 
 Desde jovem, sempre fui apaixonado pelo mundo da tecnologia e dos games. Comecei trabalhando com computadores, consertando hardware, solucionando problemas de software e, aos poucos, mergulhando mais fundo nesse universo fascinante. Essa paixão natural pela tecnologia me levou a descobrir a programação, e foi aí que iniciei minha jornada na EBAC – Escola Britânica de Artes Criativas e Tecnologia. Foi lá que me apaixonei de verdade pelo desenvolvimento de software e encontrei meu verdadeiro propósito.
 Atualmente, sou Desenvolvedor Full Stack Java, com formação completa pela EBAC, e tenho uma base sólida em desenvolvimento web. Minha experiência abrange front-end com React e TypeScript, back-end com Spring Boot e JPA, containers com Docker, banco de dados relacionais e NoSQL, e controle de versão com Git. Estou sempre em busca de desafios que me permitam crescer técnica e profissionalmente.
-🎓 Formado em Desenvolvimento Full Stack Java pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).
-📚 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Unicesumar.
+
+#🎓 Formado em Desenvolvimento Full Stack Java pela EBAC (Escola Britânica de Artes Criativas e Tecnologia).
+#📚 Cursando Superior de Tecnologia em Análise e Desenvolvimento de Sistemas na Unicesumar.
 
 ---
 
