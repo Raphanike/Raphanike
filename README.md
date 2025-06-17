@@ -45,7 +45,7 @@ Atualmente, sou Desenvolvedor Full Stack Java, com formação completa pela EBAC
 
 - **LinkedIn**: [Raphael Cavalcante](https://www.linkedin.com/in/developercavalcante/)
 - **Email**: raphinha.maciel@outlook.com
-- - **Minha Assitente Virtual**: https://huggingface.co/chat/assistant/684f2cb51e0b552708f9ec1f
+- **Minha Assitente Virtual**: https://huggingface.co/chat/assistant/684f2cb51e0b552708f9ec1f
 
 ---
 
